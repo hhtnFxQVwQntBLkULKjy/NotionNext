@@ -12,7 +12,7 @@
       "@/theme/*": ["theme/*"],
       "@/data/*": ["data/*"],
       "@/lib/*": ["lib/*"],
-      "@theme-components/*": ["components/theme/*"],
+      "@theme-components/*": ["theme/theme.js"],
       "@/styles/*": ["styles/*"]
     }
   }
