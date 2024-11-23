@@ -12,6 +12,7 @@
       "@/theme/*": ["theme/*"],
       "@/data/*": ["data/*"],
       "@/lib/*": ["lib/*"],
+      "@theme-components/*": ["components/theme/*"],
       "@/styles/*": ["styles/*"]
     }
   }
